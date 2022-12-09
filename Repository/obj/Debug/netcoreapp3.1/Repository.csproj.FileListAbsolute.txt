@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

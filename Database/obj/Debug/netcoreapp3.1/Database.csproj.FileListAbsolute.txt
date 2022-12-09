@@ -1,0 +1,13 @@
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.csproj.CopyComplete
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\Decagon\Desktop\STUD\CHIBUIKE SPF\PROJECT\StudentAdministrationSystem\Database\obj\Debug\netcoreapp3.1\Database.pdb
