@@ -497,11 +497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\API\\obj\\",
+      "outputPath": "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -521,11 +521,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\Repository\\Repository.csproj"
+            "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\Users\\Decagon\\Desktop\\STUD\\CHIBUIKE SPF\\PROJECT\\StudentAdministrationSystem\\Utilities\\Utilities.csproj"
+            "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\Decagon\\Documents\\PROJECTS\\GITProjects\\StudentAdminSystem\\Utilities\\Utilities.csproj"
             }
           }
         }
